@@ -11,10 +11,10 @@ function SocialBtns() {
           <button className="p-3 rounded-full">
             <FcGoogle className="text-red-500 text-xl rounded-full" />
           </button>
-          <button className="p-3">
+          <button className="p-3 rounded-full">
             <FaFacebookF className="text-blue-500 text-xl rounded-full" />
           </button>
-          <button className="p-3">
+          <button className="p-3 rounded-full">
             <BsTwitterX className="text-blue-400 text-xl rounded-full" />
           </button>
         </div>
