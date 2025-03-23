@@ -44,7 +44,7 @@ function SetingsPage() {
           </div>
         </div>
         <p className="mt-4 text-gray-600 text-sm">
-          A skilled front-end developer with a passion for
+          A skilled react developer with a passion for
           building seamless and high-performance web
           applications. Proficient in JavaScript, React.js,
           and Tailwind CSS, I specialize in crafting

@@ -1,3 +1,13 @@
+Assisnment - EducaseIndia
+Manash Baruah.
+Submitted on - 23/03/2025
+
+Tech -
+> React Js
+> Tailwind
+> Responsive for all screen
+> Add resume button to download my resume
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
