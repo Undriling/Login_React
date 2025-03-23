@@ -9,7 +9,7 @@ function Home() {
           <img
             src="/vite.svg"
             alt="Heading Image"
-            className="h-[150px] px-24 md:px-32"
+            className="h-[150px] px-[100px] md:px-32"
           />
 
           <div className="mt-10">

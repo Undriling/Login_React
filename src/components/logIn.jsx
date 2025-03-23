@@ -3,11 +3,11 @@ import SocialBtns from "./socialBtns";
 
 function Login() {
   return (
-    <div className="flex justify-center font-serif h-screen bg-gray-100 md:w-screen">
+    <div className="flex justify-center font-serif h-screen bg-gray-100 w-screen">
       <div className="w-full max-w-md p-6 bg-white shadow-lg rounded-lg">
         <div className="mt-10">
           <p className="text-2xl md:text-4xl font-bold text-gray-900">
-            Sign In to your PopX account
+            Login to your PopX account
           </p>
           <p className="text-gray-600 mt-2">
             Sign In to access all the features of PopX
