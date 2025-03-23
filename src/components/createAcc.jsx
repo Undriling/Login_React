@@ -6,7 +6,7 @@ function CreateAccount() {
 
   return (
 
-    <div className="flex items-center justify-center h-full bg-gray-100 md:w-screen font-serif mt-26 mb-10">
+    <div className="flex items-center justify-center h-full bg-gray-100 md:w-screen font-serif mt-20 mb-10">
 
       <div className="w-full max-w-md p-6 bg-white shadow-lg rounded-lg mt-[220px]">
 
