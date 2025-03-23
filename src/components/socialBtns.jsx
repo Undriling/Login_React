@@ -12,10 +12,10 @@ function SocialBtns() {
             <FcGoogle className="text-red-500 text-xl rounded-full" />
           </button>
           <button className="p-3">
-            <FaFacebookF className="text-blue-500 text-xl" />
+            <FaFacebookF className="text-blue-500 text-xl rounded-full" />
           </button>
           <button className="p-3">
-            <BsTwitterX className="text-blue-400 text-xl" />
+            <BsTwitterX className="text-blue-400 text-xl rounded-full" />
           </button>
         </div>
       </div>
