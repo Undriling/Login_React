@@ -2,6 +2,8 @@ Assisnment - EducaseIndia
 Manash Baruah.
 Submitted on - 23/03/2025
 
+## Live link:- https://manasheducaseindia.netlify.app/
+
 Tech -
 > React Js
 > Tailwind
